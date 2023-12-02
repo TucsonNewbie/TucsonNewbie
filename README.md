@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TucsonNewbie. I'm a retired radio announcer and old school DIY hobbyist tinkerer. I'm going to guess that 99% of the people here on GitHub know 
 far more computers and coding than I do. Hence, my "newbie" moniker and, yes, I happen to live in Tucson, Arizona, USA. My expertise is wood and metalworking 
 (I learned guitar luthiery and built/repaired stringed musical instuments for a living in my early adult years) and I have a lifelong fascination with industrial 
-designand, for lack of a better decription, how things work. I've also employed myself over the years as an audio engineer in the capacity of providing concert 
-sound reinforcement and location of acoustic lmusic with ive-to-2-track audio recording techniques. 
+design and, for lack of a better decription, how things work. I've also employed myself over the years as an audio engineer in the capacity of providing concert 
+sound reinforcement and documenting acoustic music with live-to-2-track audio recording techniques. 
 
 - 👀 I’m interested in renewable energy and climate change solutions, especially the intersection of electric vehicles (I've been driving one since 2015,) 
 solar PV and battery technology. I really do think that these relatively new inventions are going to be what save humanity from a heating planet that and we have 
